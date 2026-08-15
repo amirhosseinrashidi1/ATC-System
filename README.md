@@ -823,19 +823,6 @@ Attack modules represent simulated cybersecurity scenarios and should only be us
 
 ---
 
-# License
-
-A license has not been specified in the current project source.
-
-Before publishing the repository publicly, choose an appropriate license such as:
-
-* MIT
-* Apache License 2.0
-* GPL-3.0
-
-and add the corresponding `LICENSE` file to the repository.
-
----
 
 ## Author
 
